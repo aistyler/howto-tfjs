@@ -1,6 +1,7 @@
 {
   "packages": [
     "tf-*",
+    "tfjs-examples/*",
     "packages/*"
   ],
   "command": {
